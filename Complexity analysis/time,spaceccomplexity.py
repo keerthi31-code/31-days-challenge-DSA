@@ -1,4 +1,4 @@
-'''
+"""
 Time Cpmplexity- how many steps does the program takes
 space complexity- how much extra memory does the program use
 
@@ -90,4 +90,4 @@ One-line memory aid
 
 Loop = n, nested loop = n², halving = log n, new list = O(n) space, recursion depth = O(n) space.
 
-'''
+"""
