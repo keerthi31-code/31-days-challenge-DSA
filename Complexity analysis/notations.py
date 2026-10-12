@@ -46,11 +46,5 @@ O     → At most
 Θ     → Both
 
 
-
-
-
-
-
 '''
-print('keerthi')
-print('navya')
+print('aashritha')
